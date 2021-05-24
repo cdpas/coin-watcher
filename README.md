@@ -29,3 +29,8 @@ cd src-cordova
 cordova run android
 ```
 
+### Download APK file for Android
+```
+The compiled APK for android can be downloaded from:
+https://github.com/cdpas/coin-watcher/tree/master/release/coin-watcher.apk
+```
