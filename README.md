@@ -12,9 +12,9 @@ The added coins (or tokens) can be edited by updating the quantity or deleted.
 
 All data is stored in localStorage on the device.
 
-[Download](http://minimal.altervista.org/apk/coin-watcher.zip)
+[Download](https://cdpas.net/apk/coin-watcher.apk)
 
-Unzip it and then you can proceed to install it on android.
+
 
 ## Project setup
 ```
