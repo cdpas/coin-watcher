@@ -12,6 +12,8 @@ The added coins (or tokens) can be edited by updating the quantity or deleted.
 
 All data is stored in localStorage on the device.
 
+[Download](https://minimal.altervista.org/apk/coin-watcher.apk)
+
 ## Project setup
 ```
 npm install
@@ -33,7 +35,7 @@ cordova run android
 ```
 The compiled APK for android can be downloaded from:
 https://github.com/cdpas/coin-watcher/tree/master/release/coin-watcher.apk
-or 
+
 ```
-[Direct Download](https://minimal.altervista.org/apk/coin-watcher.apk)
+
 
