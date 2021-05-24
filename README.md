@@ -34,5 +34,6 @@ cordova run android
 The compiled APK for android can be downloaded from:
 https://github.com/cdpas/coin-watcher/tree/master/release/coin-watcher.apk
 or 
-[Direct Download](http://minimal.altervista.org/apk/coin-watcher.apk)
 ```
+[Direct Download](https://minimal.altervista.org/apk/coin-watcher.apk)
+
